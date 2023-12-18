@@ -24,14 +24,15 @@
 // console.log("Berilgan sonning xonalari: " + counter);
 
 // <============================> 3-masala <=========================>
-
+// let i = 1;
+// let sum = 1;
 // let a = 5; //prompt("Istalgan sonni kirting")
 // while ( i <= a ) {
 //   sum *= i;
 //   i++;
 // }
 
-// console.log(sum);
+console.log(sum);
 
 // <============================> 4-masala <=========================>
 
